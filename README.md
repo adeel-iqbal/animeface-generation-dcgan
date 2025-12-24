@@ -137,10 +137,6 @@ animeface-generation-dcgan/
 - Experiment with StyleGAN architecture for improved quality
 - Create a web interface for easy image generation
 
-## License
-
-This project is open source and available for educational purposes.
-
 ## Contact
 
 **Adeel Iqbal Memon**
@@ -148,11 +144,6 @@ This project is open source and available for educational purposes.
 - Email: adeelmemon096@yahoo.com
 - LinkedIn: [linkedin.com/in/adeeliqbalmemon](https://linkedin.com/in/adeeliqbalmemon)
 - GitHub: [@adeel-iqbal](https://github.com/adeel-iqbal)
-
-## Acknowledgments
-
-- Dataset: [Anime Faces on Kaggle](https://www.kaggle.com/datasets/soumikrakshit/anime-faces) by Soumik Rakshit
-- Inspired by the original DCGAN paper: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 
 ---
 
